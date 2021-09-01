@@ -167,7 +167,7 @@ showbtn.addEventListener("click", function () {
     outputMsg.innerText = "Processing... "
     setTimeout(() => {
     clickhandler()       
-    }, 3000);
+    }, 1000);
 })
 
 
