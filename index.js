@@ -164,10 +164,14 @@ function clickhandler() {
 
 
 showbtn.addEventListener("click", function () {
+    if (inputDate.value !== "") {
     outputMsg.innerText = "Processing... "
+    }else{
+    outputMsg.innerText = "Please  fill birthday value"
+    }
     setTimeout(() => {
     clickhandler()       
-    }, 1000);
+    }, 800);
 })
 
 
