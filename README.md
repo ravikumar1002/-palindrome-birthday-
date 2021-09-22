@@ -8,9 +8,9 @@
 
 # Technologies used:
 
-   * html
-   * css`
-   * javascript
+   * HTML
+   * CSS
+   * Javascript
    * Netlify(for hosting)
 
 Don't forget to leave a ⭐ if you found this useful & interesting. 
